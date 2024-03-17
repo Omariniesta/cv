@@ -1,0 +1,20 @@
+body {
+    background-color: whitesmoke;
+    background-image: image(omar pic.);
+}
+hr {
+    border: none;
+    border-top: dotted;
+    width: 6%;
+    border-color: gainsboro;
+}
+h1{
+    color: maroon;
+}
+h3{
+    color: maroon;
+}
+
+img{
+    border-radius:50% ;
+}
